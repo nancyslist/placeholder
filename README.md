@@ -10,12 +10,12 @@ We give contractors full control over their intellectual property (IP)
 
 ### For Contractors
 
-|   Website     | Cost      | Sales Dept | Payments         | IP consent      | IP control    |
-| ------------- | --------- | ---------- | ---------------- | --------------- | ------------- |
-| Nancy's List  |  Free     | None       | Trusted Escrow   | Consensual     | Full           |
-| Homestars     |  $1600/yr | 15+        | At your own risk | Non-Consensual | Very Limited * |
+|   Website     | Ownership                    | Cost       | Sales Dept       | Payments         | IP consent     | IP control     |
+| ------------- | ---------------------------- | ---------- | ---------------- | ---------------- | -------------- | -------------- |
+| Nancy's List  | Contractor owned & operated  | None       | None             | Trusted Escrow   | Consensual     | Full Control   |
+| Homestars     | Venture captial backed suits | $1600/yr   | 15+              | At your own risk | Non Consensual | Very Limited * |
 
-\* There is no way to remove your landing page other than putting up a literal 'Out of Business' sign. The landing page is created without your consent upon signing up for the app and Homestars grants itself a perpetual licence to your business name which will show up on google search results. Traces of even clearly fraudulent reviews are maintained in perpetuity, implying strongarm tactics and bullying of negative reviewers
+\* There is no way to remove your landing page other than putting up a literal 'Out of Business' sign. Only paid users may add a logo. The landing page is created without your consent upon signing up for the app and Homestars grants itself a perpetual licence to your business name which will show up on google search results forever. Traces of even clearly fraudulent reviews are maintained in perpetuity, implying strongarm tactics and bullying of negative reviewers
 
 ### For Clients
 
