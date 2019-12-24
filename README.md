@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Nancy's List
 
-You can use the [editor on GitHub](https://github.com/nancyslist/placeholder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nancy's List makes sure everybody gets paid and nobody gets ripped off
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+Contractor owned and operated. We understand your business. Free contractor listings, leads and verification. Contractors always get paid. Customers never get ripped off. Nancy's list doesn't rate contractors, although contractors may rate clients and other less reputable contractor sites or apps.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We give contractors full control over their intellectual property (IP)
 
-```markdown
-Syntax highlighted code block
+## Compare
 
-# Header 1
-## Header 2
-### Header 3
+### For Contractors
+|               | Cost      | Sales Dept | Payments       | IP consent      | IP control |
+|---------------|---------- |----------- |----------------| --------------- | ----------- |
+| Nancy's List  |  Free     | None       | Trusted Escrow | Consensual     | Full        |
+| Homestars     |  $1600/yr | 15+        | Buyer beware   | Non-Consensual | Very Limited. There is no way to remove your landing page other than putting up a literal 'Out of Business' sign. The landing page is created without your consent upon signing up for the app and Homestars grants itself a perpetual licence to your business name which will show up on google search results |
 
-- Bulleted
-- List
+### For Clients
+|               | Verification  | Payments              | Inspections |
+|---------------|---------------|-----------------------|-------------|
+| Nancy's List  | Within 30 days| Escrow based payments | worksites, offices, vehicles and equipment |
+| Homestars     | Never         | Buyer beware          | None       |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Respect
 
-[Link](url) and ![Image](src)
-```
+### Respect For Contractors
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We respect your intellectual property. All listings are 100% consensual and may be removed at any time for any reason
 
-### Jekyll Themes
+### Respect For Clients
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nancyslist/placeholder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We realize your home is your prized possession and choosing a contractor you can trust is not always easy. The review system on many websites can be gamed by dishonest or bad contractors. We remove the risk for you by providing tools to minimize your financial risk
+
+## Trust
+
+### Inspections
+
+We verify every contractor on Nancy's List within 30 days of them joining. We inspect worksites, offices, vehicles and equipment. We meet people and get to know them. Nancy's List is contractor run so we know what to look for and what the signs of trouble are
+
+### Payments
+
+Contractors always get paid. Customers never get ripped off
+
+Payments are held in an Escrow account and are released to the contractor only upon reaching certain documented goals. Deposits are not permitted unless a contractor is fully verified. All deposits must be approved by Nancy's List
 
 ### Support or Contact
+Get in touch to find out more [info@nancyslist.ca](mailto:info@nancyslist.ca?subject=[Tell%20Me%20More])
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
