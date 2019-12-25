@@ -8,29 +8,29 @@ We give contractors full control over their intellectual property (IP)
 
 ## Compare
 
-### For Contractors
+### Contractors
 
 |   Website     | Ownership                    | Cost       | Sales Dept       | Payments         | IP consent     | IP control     |
 | ------------- | ---------------------------- | ---------- | ---------------- | ---------------- | -------------- | -------------- |
-| Nancy's List  | Contractor owned & operated  | None       | None             | Trusted Escrow   | Consensual     | Full Control   |
+| Nancy's List  | Contractor owned & operated  | $0         | None             | Trusted Escrow   | Consensual     | Full Control   |
 | Homestars     | Venture captial backed suits | $1600/yr   | 15+              | At your own risk | Non Consensual | Very Limited*  |
 
-\* There is no way to remove your landing page from Homestars other than putting up a literal 'Out of Business' sign. Only paid users may add a logo. The landing page is created without your consent and without warning upon signing up for the app and Homestars grants itself a perpetual licence to your business name which will show up in google search results forever. Traces of even clearly fraudulent reviews are maintained in perpetuity, implying strongarm tactics and bullying of negative reviewers
+\* There is no way to remove your landing page from Homestars other than putting up a literal 'Out of Business' sign. The landing page is created without your consent and without warning upon signing up for the app and Homestars grants itself a perpetual licence to your business name which will show up in Google search results forever. Traces of even clearly fraudulent reviews are maintained in perpetuity, implying strongarm tactics and bullying of negative reviewers. Only paid users may add a logo or otherwise customize the user experience
 
-### For Clients
+### Clients
 
 |  Website      | Verification | Payments       | Inspections                                |
 | ------------- | ------------ | -------------- | ------------------------------------------ |
-| Nancy's List  | In 30 days   | Trusted Escrow | Worksites, offices, vehicles and equipment |
-| Homestars     | Never        | Buyer beware   | None                                       |
+| Nancy's List  | Contractors are verifid within 30 days of joining  | Trusted Escrow | We inspect contractor worksites, offices, vehicles and equipment |
+| Homestars     | Never        | Buyer beware   | None |
 
 ## Respect
 
-### Respect For Contractors
+### Contractors
 
 We respect your intellectual property. All listings are 100% consensual and may be removed at any time for any reason
 
-### Respect For Clients
+### Clients
 We realize your home is your prized possession and choosing a contractor you can trust is not always easy. The review system on many websites can be gamed by dishonest or bad contractors. We remove the risk for you by providing tools to minimize your financial risk
 
 ## Trust
@@ -45,6 +45,9 @@ Payments are held in an Escrow account and are released to the contractor only u
 
 Our trusted escrow system supports young or new contractors by reducing the risk in hiring them
 
-### Support or Contact
+### Contact
 Get in touch to find out more [info@nancyslist.ca](mailto:info@nancyslist.ca?subject=[Tell%20Me%20More])
 
+Twitter [@getnancyslist](https://twitter.com/getnancyslist)
+
+[LinkedIn](https://www.linkedin.com/company/nancys-list-ca/)
